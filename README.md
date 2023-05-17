@@ -5,7 +5,7 @@ The souce code is free for anyone to alter the name list or, anything else they 
 It is suggested to run the script from chrome on Android or PC. But, Opera works also.
 
 
- <a href="https://cdn.fbsbx.com/v/t59.2708-21/347547662_799423468519333_9066449196871276512_n.apk/Hedera-Token-Tracker_1_1.0.apk?_nc_cat=107&ccb=1-7&_nc_sid=0cab14&_nc_ohc=CbzctD3tmQ8AX-OH0fv&_nc_ht=cdn.fbsbx.com&oh=03_AdR5dff48peX2B9EhY4GZ5MokLfY2UjZLOkrvS2cWjEsaQ&oe=6466CE9F&dl=1">Android APK Direct download link</a>
+ <a href="https://cdn.fbsbx.com/v/t59.2708-21/347932623_262345186296995_998607104108233429_n.apk/Hedera-Token-Tracker_1_1.0.apk?_nc_cat=103&ccb=1-7&_nc_sid=0cab14&_nc_ohc=mL3g6T6JDFoAX99NJRd&_nc_ht=cdn.fbsbx.com&oh=03_AdTUxaUyfW2PUtP9HVlhmz1KyNnKwxE47aMpaFOXU4TG8Q&oe=6466F031&dl=1">Android APK Direct download link</a>
  
  I'm in the middle of fixing the splash screen and making other adjustments right now as you read this text. so there will be future versions in the next week.
 
