@@ -14,5 +14,5 @@ The souce code is free for anyone to alter the name list or, anything else they 
 <image src="https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/345874400_970549227729754_8473680489421138235_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=CBiEGsgwt94AX-mn8fG&_nc_ht=scontent-ord5-2.xx&oh=03_AdSFEnYaPvFukPuhQUeJmI5f8DPNEVSyfOP5zbKwsMmeyw&oe=648C7C5B" >
 
  <img src="[https://ik.imagekit.io/ikmedia/women-dress-2.jpg](https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/345874400_970549227729754_8473680489421138235_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=CBiEGsgwt94AX-mn8fG&_nc_ht=scontent-ord5-2.xx&oh=03_AdSFEnYaPvFukPuhQUeJmI5f8DPNEVSyfOP5zbKwsMmeyw&oe=648C7C5B)" 
-     width="400" 
-     height="500" />
+     width="40" 
+     height="50" />
