@@ -1,6 +1,6 @@
 # HederaTokenTracker
 
-A simple HTML script and Android app that tracks as many Hedera eco-system tokens as possible.
+A simple HTML script and Android app that tracks as many tokens in ther Hedera eco-system as possible.
 The souce code is free for anyone to alter the name list or, anything else they choose.
 It is suggested to run the HTML version  from chrome on Android or PC. But, Opera works also.
 
