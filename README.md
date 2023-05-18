@@ -6,7 +6,7 @@ It is suggested to run the HTML version  from chrome on Android or PC. But, Oper
 
 
 This is the Android App version that you can install and run from a shortcut anytime.
- <a href="https://cdn.fbsbx.com/v/t59.2708-21/348156528_772086834563213_7951290799824685219_n.apk/Hedera-Token-Tracker_1_1.0.apk?_nc_cat=101&ccb=1-7&_nc_sid=0cab14&_nc_ohc=wsCEIfbCUC0AX-vTIV-&_nc_ht=cdn.fbsbx.com&oh=03_AdThsNZO9YmXwFpix0eBZFF-AnaXbSiurRyzGHaTXELxDw&oe=64687AA4&dl=1">Android APK Direct download link</a>
+ <a href="https://cdn.fbsbx.com/v/t59.2708-21/347741437_625641135826175_788031240505094736_n.apk/Hedera-Token-Tracker_1_1.0.apk?_nc_cat=102&ccb=1-7&_nc_sid=0cab14&_nc_ohc=nnRMox_ZQbAAX8tuvQV&_nc_ht=cdn.fbsbx.com&oh=03_AdTYj_UbYh-0rDp2gTTby9csrAdoNMR1w9IJYdxYY8nUbw&oe=64680A8D&dl=1">Android APK Direct download link</a>
  
 This is the HTML script version so you do not have to install anything.
  <a href="https://cdn.fbsbx.com/v/t59.2708-21/347579321_249285947650255_4715499807861352083_n.html/Hedera-token-tracker-latest.html?_nc_cat=103&ccb=1-7&_nc_sid=0cab14&_nc_ohc=7UOZm6Kmv2AAX-qVuKS&_nc_ht=cdn.fbsbx.com&oh=03_AdSTr8Ud0cRb9O50goZL0kTCkGa0J9zmkp9Rp4NNw8sdUA&oe=646761F3&dl=1">HTML script Direct download link</a>
