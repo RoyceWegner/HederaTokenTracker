@@ -4,7 +4,7 @@ A simple HTML script and Android app that tracks as many Hedera eco-system token
 The souce code is free for anyone to alter the name list or, anything else they choose.
 It is suggested to run the HTML version  from chrome on Android or PC. But, Opera works also.
 
-This it the Android App version that you can install and run from a shortcut anytime.
+This is the Android App version that you can install and run from a shortcut anytime.
  <a href="https://cdn.fbsbx.com/v/t59.2708-21/347701667_1245830542711637_9046381307577992314_n.apk/Hedera-Token-Tracker_1_1.0.apk?_nc_cat=110&ccb=1-7&_nc_sid=0cab14&_nc_ohc=mKwpx6mLNs0AX-jN_Go&_nc_ht=cdn.fbsbx.com&oh=03_AdS8UDaO_kil4p0c1dbyM2PIdyNtIiE8NPDeWm09y4PhKA&oe=6466D9A9&dl=1">Android APK Direct download link</a>
  
 This is the HTML script version so you do not have to install anything.
