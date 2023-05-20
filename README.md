@@ -8,7 +8,7 @@ the Hedera SDK API and the other variation will be plugged into CoinGecko.
 
 
 This is the Android App version that you can install and run from a shortcut anytime.
- <a href="https://cdn.fbsbx.com/v/t59.2708-21/347728460_802911831257151_4834362489483134692_n.apk/Hedera-Token-Tracker_1_1.0.apk?_nc_cat=109&ccb=1-7&_nc_sid=0cab14&_nc_ohc=hRdujq-JSpsAX9F7XQs&_nc_ht=cdn.fbsbx.com&oh=03_AdT_TA_HJ1DON2jVfftOKhq3CXD4XZpJLpR1z7c1M6RXfA&oe=6469F0C8&dl=1">Android APK Direct download link</a>
+ <a href="https://cdn.fbsbx.com/v/t59.2708-21/347995035_3359255577631711_4487945759083275793_n.apk/Hedera-Token-Tracker_1_1.0.apk?_nc_cat=101&ccb=1-7&_nc_sid=0cab14&_nc_ohc=ZD8Uh5_XXDAAX_clrOh&_nc_ht=cdn.fbsbx.com&oh=03_AdSfkkU7Hz3_J3Phu-EUgXyrKp6Yz7eT3ywHuE7KMIjHEQ&oe=646994D9&dl=1">Android APK Direct download link</a>
  
 This is the HTML script version so you do not have to install anything.
  <a href="https://cdn.fbsbx.com/v/t59.2708-21/347579321_249285947650255_4715499807861352083_n.html/Hedera-token-tracker-latest.html?_nc_cat=103&ccb=1-7&_nc_sid=0cab14&_nc_ohc=7UOZm6Kmv2AAX-qVuKS&_nc_ht=cdn.fbsbx.com&oh=03_AdSTr8Ud0cRb9O50goZL0kTCkGa0J9zmkp9Rp4NNw8sdUA&oe=646761F3&dl=1">HTML script Direct download link</a>
