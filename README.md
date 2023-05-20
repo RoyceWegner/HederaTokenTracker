@@ -3,6 +3,8 @@
 A simple HTML script and Android app that tracks as many tokens in ther Hedera eco-system as possible.
 The source code is free for anyone.
 It is suggested to run the HTML version  from chrome on Android or PC. But, Opera works also.
+Sometime soon there will be two different builds of the HTT app. One variation will be hooked into
+the Hedera SDK API and the other variation will be plugged into CoinGecko.
 
 
 This is the Android App version that you can install and run from a shortcut anytime.
