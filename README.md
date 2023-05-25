@@ -15,9 +15,7 @@ This is the HTML script version so you do not have to install anything.(this is 
 
 <image src="https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/345560061_1281365249144733_1076772976836961303_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=_qFPZm7l19QAX_rsJfd&_nc_ht=scontent-ord5-2.xx&oh=03_AdT7-uVg8jVJgazdPa1h_ZVhv3HqkjMUojbwAbcFXSpEGw&oe=648FAD28" width="300" height="600" >
  
- HTML version for testing
- <a href="https://cdn.fbsbx.com/v/t59.2708-21/349017378_611043797644122_8510683546367784923_n.html/index.html?_nc_cat=111&ccb=1-7&_nc_sid=0cab14&_nc_ohc=lojnBVFoTXIAX9_aDVD&_nc_ht=cdn.fbsbx.com&oh=03_AdR2pulGRSCaLuo7C7cxYBgsVtbTeKmiNitdpslqzhYvNg&oe=647155D8&dl=1">HTML script Direct download link</a>
- 
+
  new version
  <div>
   <br> rebuilt from the ground up</br>
@@ -35,4 +33,4 @@ This is the HTML script version so you do not have to install anything.(this is 
   ANDROID version Turqoise edition
  <a href="https://cdn.fbsbx.com/v/t59.2708-21/348963834_267835789051090_9164035535026116557_n.html/turqoise.html?_nc_cat=100&ccb=1-7&_nc_sid=0cab14&_nc_ohc=7rc32zKg8ogAX-OIK-u&_nc_ht=cdn.fbsbx.com&oh=03_AdQWlkmILe0yMge_XvmAMa6NWN4I877BeqY_Gt9CPYMjXQ&oe=6471C65D&dl=1">HTML script Direct download link</a>
  
- <image src="https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/348356698_6475705419128089_6642946686330947147_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=c88y3TjyxqIAX_Vh26_&_nc_ht=scontent-ord5-2.xx&oh=03_AdTRzG0i3DO9l8BHDrt0FpLBybvDapsaokSs3IPsfnjTtQ&oe=64977395" width="300" height="600" >
+ <image src="https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/348356509_961803574953282_4991402282951677447_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=JSDMdoB9JsYAX-jzusm&_nc_ht=scontent-ord5-2.xx&oh=03_AdQy_7bGPt0XJU-aqGmKH0phNd83w41RJeuHTnW8hEAuxA&oe=6497606F" width="300" height="600" >
