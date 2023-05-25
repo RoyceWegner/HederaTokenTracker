@@ -43,6 +43,6 @@ This is the HTML script version so you do not have to install anything.(this is 
 <br> Turquoise</br>
  <image src="https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/348356509_961803574953282_4991402282951677447_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=JSDMdoB9JsYAX-jzusm&_nc_ht=scontent-ord5-2.xx&oh=03_AdQy_7bGPt0XJU-aqGmKH0phNd83w41RJeuHTnW8hEAuxA&oe=6497606F" width="300" height="600" >
 
-<br>RAD</br>
+<br>RAD (works better on PC)</br>
  <image src="https://scontent-ord5-1.xx.fbcdn.net/v/t1.15752-9/348356638_1987879401572987_7189123742783842001_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_ohc=676moP7EjBQAX-SOpFj&_nc_ht=scontent-ord5-1.xx&oh=03_AdSSyLtqoaDwNOQ1ewD_qJmGxPEazx5AjU6S8TU3edwumw&oe=64975830" width="300" height="600" >
 
