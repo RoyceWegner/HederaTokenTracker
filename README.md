@@ -31,6 +31,6 @@ This is the HTML script version so you do not have to install anything.(this is 
  <a href="https://cdn.fbsbx.com/v/t59.2708-21/348963834_267835789051090_9164035535026116557_n.html/turqoise.html?_nc_cat=100&ccb=1-7&_nc_sid=0cab14&_nc_ohc=7rc32zKg8ogAX-OIK-u&_nc_ht=cdn.fbsbx.com&oh=03_AdQWlkmILe0yMge_XvmAMa6NWN4I877BeqY_Gt9CPYMjXQ&oe=6471C65D&dl=1">HTML script Direct download link</a>
  
   ANDROID version Turqoise edition
- <a href="https://cdn.fbsbx.com/v/t59.2708-21/348963834_267835789051090_9164035535026116557_n.html/turqoise.html?_nc_cat=100&ccb=1-7&_nc_sid=0cab14&_nc_ohc=7rc32zKg8ogAX-OIK-u&_nc_ht=cdn.fbsbx.com&oh=03_AdQWlkmILe0yMge_XvmAMa6NWN4I877BeqY_Gt9CPYMjXQ&oe=6471C65D&dl=1">HTML script Direct download link</a>
+ <a href="https://cdn.fbsbx.com/v/t59.2708-21/348963834_267835789051090_9164035535026116557_n.html/turqoise.html?_nc_cat=100&ccb=1-7&_nc_sid=0cab14&_nc_ohc=7rc32zKg8ogAX-OIK-u&_nc_ht=cdn.fbsbx.com&oh=03_AdQWlkmILe0yMge_XvmAMa6NWN4I877BeqY_Gt9CPYMjXQ&oe=6471C65D&dl=1"> ANDROID APK  Direct download link</a>
  
  <image src="https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/348356509_961803574953282_4991402282951677447_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=JSDMdoB9JsYAX-jzusm&_nc_ht=scontent-ord5-2.xx&oh=03_AdQy_7bGPt0XJU-aqGmKH0phNd83w41RJeuHTnW8hEAuxA&oe=6497606F" width="300" height="600" >
