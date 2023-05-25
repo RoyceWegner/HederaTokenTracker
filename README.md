@@ -23,7 +23,9 @@ This is the HTML script version so you do not have to install anything.(this is 
    <br>faster loading times</br>
    <br>clean interface</br>
   <br> enhanced data</br>
-   <br>better scaling</br>
+   better scaling
+   less battery consumption
+   less data consumption
    <br>no more duct taped code</br>
  </div>
  
