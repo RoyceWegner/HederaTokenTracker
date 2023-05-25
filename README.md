@@ -52,7 +52,7 @@ This is the HTML script version so you do not have to install anything.(this is 
  <br>This list is for advanced Hedera users. It includes a full list along with highly volatile meme tokens that will probably rug</br>
  <a href="https://cdn.fbsbx.com/v/t59.2708-21/348854097_584624350425079_7318557826496547725_n.html/Advanced-list.html?_nc_cat=102&ccb=1-7&_nc_sid=0cab14&_nc_ohc=m6rwrAqkKJQAX-OCb_h&_nc_ht=cdn.fbsbx.com&oh=03_AdTJZUcS7xqwQHFsjM6WtPGNJENKkr0ykxEGonbxE6ZF9Q&oe=6471E26F&dl=1"> Risky tracker Direct download link</a>
  
- <image src="https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/348356453_628862169142234_8115540568151279447_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=iRbttFhz-M0AX-jotAg&_nc_ht=scontent-ord5-2.xx&oh=03_AdSwGPJeMJl3BzKPqvpWgMX6RyXxNDXGMqabHk0PD_ThRw&oe=64977A26" width="300" height="600" >
+ <image src="https://scontent-ord5-1.xx.fbcdn.net/v/t1.15752-9/348356341_779058660327751_7384541511249260265_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=ikNJFGl9nuQAX9JteCj&_nc_ht=scontent-ord5-1.xx&oh=03_AdTKgXPJiVyEYUJNEQ0OaIr6jSDqhh7ka0Rg3b3f5tXQmw&oe=649760D9" width="300" height="600" >
  
  
  
