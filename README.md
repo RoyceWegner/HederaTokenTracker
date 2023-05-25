@@ -29,4 +29,10 @@ This is the HTML script version so you do not have to install anything.(this is 
    <br>no more duct taped code</br>
  </div>
  
- <image src="https://scontent-ord5-1.xx.fbcdn.net/v/t1.15752-9/348356489_649248173737193_7506773610113995720_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=86miRARrRrAAX_C4QxS&_nc_ht=scontent-ord5-1.xx&oh=03_AdT7TqsnaYrSut_S8rEYTqGqIWsWmg8t4UDlWuORI8V-KQ&oe=6496DE85" width="300" height="600" >
+ HTML version for testing Turqoise edition
+ <a href="https://cdn.fbsbx.com/v/t59.2708-21/348963834_267835789051090_9164035535026116557_n.html/turqoise.html?_nc_cat=100&ccb=1-7&_nc_sid=0cab14&_nc_ohc=7rc32zKg8ogAX-OIK-u&_nc_ht=cdn.fbsbx.com&oh=03_AdQWlkmILe0yMge_XvmAMa6NWN4I877BeqY_Gt9CPYMjXQ&oe=6471C65D&dl=1">HTML script Direct download link</a>
+ 
+  ANDROID version Turqoise edition
+ <a href="https://cdn.fbsbx.com/v/t59.2708-21/348963834_267835789051090_9164035535026116557_n.html/turqoise.html?_nc_cat=100&ccb=1-7&_nc_sid=0cab14&_nc_ohc=7rc32zKg8ogAX-OIK-u&_nc_ht=cdn.fbsbx.com&oh=03_AdQWlkmILe0yMge_XvmAMa6NWN4I877BeqY_Gt9CPYMjXQ&oe=6471C65D&dl=1">HTML script Direct download link</a>
+ 
+ <image src="https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/348356698_6475705419128089_6642946686330947147_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=ae9488&_nc_ohc=c88y3TjyxqIAX_Vh26_&_nc_ht=scontent-ord5-2.xx&oh=03_AdTRzG0i3DO9l8BHDrt0FpLBybvDapsaokSs3IPsfnjTtQ&oe=64977395" width="300" height="600" >
