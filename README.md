@@ -27,6 +27,8 @@ This is the HTML script version so you do not have to install anything.(this is 
    <br>no more duct taped code</br>
  </div>
  
+ If you like these programs and use them a lot drop some HBAR to wallet 0.0.2031376
+ 
  HTML version for testing Turqoise edition
  <a href="https://cdn.fbsbx.com/v/t59.2708-21/348963834_267835789051090_9164035535026116557_n.html/turqoise.html?_nc_cat=100&ccb=1-7&_nc_sid=0cab14&_nc_ohc=7rc32zKg8ogAX-OIK-u&_nc_ht=cdn.fbsbx.com&oh=03_AdQWlkmILe0yMge_XvmAMa6NWN4I877BeqY_Gt9CPYMjXQ&oe=6471C65D&dl=1">HTML script Direct download link</a>
  
