@@ -45,4 +45,11 @@ This is the HTML script version so you do not have to install anything.(this is 
 
 <br>RAD (works better on PC)</br>
  <image src="https://scontent-ord5-1.xx.fbcdn.net/v/t1.15752-9/348356638_1987879401572987_7189123742783842001_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_ohc=676moP7EjBQAX-SOpFj&_nc_ht=scontent-ord5-1.xx&oh=03_AdSSyLtqoaDwNOQ1ewD_qJmGxPEazx5AjU6S8TU3edwumw&oe=64975830" width="300" height="600" >
+ 
+ <br>Jquery Risky token tracker</br>
+ <br>This list is for advanced Hedera users. It includes a full list along with highly volatile meme tokens that will probably rug</br>
+ <image src="https://scontent-ord5-1.xx.fbcdn.net/v/t1.15752-9/348356638_1987879401572987_7189123742783842001_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_ohc=676moP7EjBQAX-SOpFj&_nc_ht=scontent-ord5-1.xx&oh=03_AdSSyLtqoaDwNOQ1ewD_qJmGxPEazx5AjU6S8TU3edwumw&oe=64975830" width="300" height="600" >
+ 
+  <a href="https://cdn.fbsbx.com/v/t59.2708-21/348854097_584624350425079_7318557826496547725_n.html/Advanced-list.html?_nc_cat=102&ccb=1-7&_nc_sid=0cab14&_nc_ohc=m6rwrAqkKJQAX-OCb_h&_nc_ht=cdn.fbsbx.com&oh=03_AdTJZUcS7xqwQHFsjM6WtPGNJENKkr0ykxEGonbxE6ZF9Q&oe=6471E26F&dl=1"> 
+ 
 
