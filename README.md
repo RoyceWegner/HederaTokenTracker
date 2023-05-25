@@ -18,12 +18,12 @@ This is the HTML script version so you do not have to install anything.
  new version
  <div>
   <br> rebuilt from the ground up</br>
- Will inclue: 
- faster loading times
- clean interface
- enhanced data
- better scaling
- no more duct taped code
+   <br>Will inclue: </br>
+   <br>faster loading times</br>
+   <br>clean interface</br>
+  <br> enhanced data</br>
+   <br>better scaling</br>
+   <br>no more duct taped code</br>
  </div>
  
  <image src="https://scontent-ord5-1.xx.fbcdn.net/v/t1.15752-9/348356489_649248173737193_7506773610113995720_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=86miRARrRrAAX_C4QxS&_nc_ht=scontent-ord5-1.xx&oh=03_AdT7TqsnaYrSut_S8rEYTqGqIWsWmg8t4UDlWuORI8V-KQ&oe=6496DE85" width="300" height="600" >
