@@ -15,11 +15,13 @@ This is the HTML script version so you do not have to install anything.
 
 <image src="https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/345560061_1281365249144733_1076772976836961303_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=_qFPZm7l19QAX_rsJfd&_nc_ht=scontent-ord5-2.xx&oh=03_AdT7-uVg8jVJgazdPa1h_ZVhv3HqkjMUojbwAbcFXSpEGw&oe=648FAD28" width="300" height="600" >
  
- Complettely rebuilt new version
+ new version
+ rebuilt from the ground up
  Will inclue: 
  faster loading times
  clean interface
  enhanced data
  better scaling
+ no more duct taped code
  
  <image src="https://scontent-ord5-1.xx.fbcdn.net/v/t1.15752-9/348356489_649248173737193_7506773610113995720_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=86miRARrRrAAX_C4QxS&_nc_ht=scontent-ord5-1.xx&oh=03_AdT7TqsnaYrSut_S8rEYTqGqIWsWmg8t4UDlWuORI8V-KQ&oe=6496DE85" width="300" height="600" >
