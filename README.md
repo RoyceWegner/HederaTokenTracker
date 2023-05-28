@@ -19,7 +19,6 @@ This is the HTML script version so you do not have to install anything.(this is 
  new version
  <div>
   <br> rebuilt from the ground up</br>
-   <br>Will inclue: </br>
    <br>faster loading times</br>
    <br>clean interface</br>
   <br> enhanced data</br>
