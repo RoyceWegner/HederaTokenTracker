@@ -6,10 +6,10 @@ It is suggested to run the HTML version  from chrome on Android or PC. But, Oper
 Sometime soon there will be two different builds of the HTT app. One variation will be hooked into
 the Hedera SDK API and the other variation will be plugged into CoinGecko.
 
- HTML version for testing Turquoise edition
+ HTML version for testing
  <a href="https://cdn.fbsbx.com/v/t59.2708-21/348963834_267835789051090_9164035535026116557_n.html/turqoise.html?_nc_cat=100&ccb=1-7&_nc_sid=0cab14&_nc_ohc=7rc32zKg8ogAX-OIK-u&_nc_ht=cdn.fbsbx.com&oh=03_AdQWlkmILe0yMge_XvmAMa6NWN4I877BeqY_Gt9CPYMjXQ&oe=6471C65D&dl=1">HTML script Direct download link</a>
  
-  ANDROID version Turquoise edition
+  ANDROID version
  <a href="https://cdn.fbsbx.com/v/t59.2708-21/348918460_788011899710652_7587318258271360158_n.apk/Token_TrackerWorking.apk?_nc_cat=110&ccb=1-7&_nc_sid=0cab14&_nc_ohc=NGvFUH_9ibAAX8xCuPn&_nc_ht=cdn.fbsbx.com&oh=03_AdTTGTiR2xfZMNbqBM2Hfvzlk2kzYtj2S98KlwRkOxAQSA&oe=6471AC2E&dl=1"> ANDROID APK  Direct download link</a>
  
 <br> Turquoise</br>
