@@ -1,4 +1,4 @@
-# Hash track
+# Hash-track
 
 A simple HTML script and Android app that tracks as many tokens in ther Hedera eco-system as possible.
 The source code is free for anyone.
