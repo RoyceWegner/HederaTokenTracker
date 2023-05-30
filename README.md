@@ -16,7 +16,7 @@ It is suggested to run the HTML version  from chrome on Android or PC.
  <br> Turquoise PC multi-view mode</br>
  <image src="https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/350023312_128472776916749_4884127378609950475_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=bwgl-HKRAXIAX-o51kS&_nc_ht=scontent-ord5-2.xx&oh=03_AdQ5pH9bhwW8k6gjZvCPOlZTA9CUnBpjdfCoprGwuZ-sAg&oe=649DBA1E" width="900" height="600" >
 
- <br>Jquery HTML Risky token tracker</br>
+ <br>Hash Track advanced</br>
  <br>This list is for advanced Hedera users. It includes a full list along with highly volatile meme tokens that will probably rug</br>
  <a href="https://cdn.fbsbx.com/v/t59.2708-21/349461334_2022767514721455_7527966355647272772_n.html/Advanced-list.html?_nc_cat=101&ccb=1-7&_nc_sid=0cab14&_nc_ohc=gy7S7V3hL-sAX8R-95O&_nc_ht=cdn.fbsbx.com&oh=03_AdSti-CZRH--1PQ6HN5NkHnZt4R6QSDLToqJCvDVTuQrXg&oe=647744D5&dl=1"> Hashtrack Advanced Direct download link</a>
  
