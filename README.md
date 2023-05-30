@@ -13,7 +13,7 @@ the Hedera SDK API and the other variation will be plugged into CoinGecko.
  <a href="https://cdn.fbsbx.com/v/t59.2708-21/350238004_205995435679687_516385718355421703_n.apk/_Hashtrack_17155919.apk?_nc_cat=107&ccb=1-7&_nc_sid=0cab14&_nc_ohc=FCJU2HGlPBEAX_qMMT8&_nc_ht=cdn.fbsbx.com&oh=03_AdRGMyo4sQrZrRnmpFeTAYC75uFiVn6Lk2gfZvkpHBpKBQ&oe=6476D673&dl=1"> ANDROID APK  Direct download link</a>
  
 <br> Turquoise Android single-view mode</br>
- <image src="https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/348356509_961803574953282_4991402282951677447_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=JSDMdoB9JsYAX-jzusm&_nc_ht=scontent-ord5-2.xx&oh=03_AdQy_7bGPt0XJU-aqGmKH0phNd83w41RJeuHTnW8hEAuxA&oe=6497606F" width="300" height="600" >
+ <image src="https://scontent-ord5-1.xx.fbcdn.net/v/t1.15752-9/348357753_1313457159257263_958491477024611511_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=ae9488&_nc_ohc=dz0MmgYBiT8AX9tbo8m&_nc_oc=AQmHidS6Hg5v7cX0v4878jg6AKuetmD2aNpCZ4vJum5CrbyFa3hS8pNdf-TrkL--bwlwJw68rdA4GV1D9TkAMGIc&_nc_ht=scontent-ord5-1.xx&oh=03_AdT-riK4ZYOGaNDSzK_1tMp0iZHNhLYuGYd_HBXZR7o6Jw&oe=649CB34D" width="300" height="600" >
  
  <br> Turquoise PC multi-view mode</br>
  <image src="https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/350350897_964554738304589_4349816049496478540_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=dObgKBVJcBoAX-_uX20&_nc_ht=scontent-ord5-2.xx&oh=03_AdRoJyT5Tefl1-ufdmCeCIHQqBvsfSV_RtsHQJC1eiBsaQ&oe=649CA4B7" width="800" height="600" >
