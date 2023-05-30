@@ -10,7 +10,7 @@ the Hedera SDK API and the other variation will be plugged into CoinGecko.
  <a href="https://cdn.fbsbx.com/v/t59.2708-21/348963834_267835789051090_9164035535026116557_n.html/turqoise.html?_nc_cat=100&ccb=1-7&_nc_sid=0cab14&_nc_ohc=7rc32zKg8ogAX-OIK-u&_nc_ht=cdn.fbsbx.com&oh=03_AdQWlkmILe0yMge_XvmAMa6NWN4I877BeqY_Gt9CPYMjXQ&oe=6471C65D&dl=1">HTML script Direct download link</a>
  
   ANDROID version
- <a href="https://cdn.fbsbx.com/v/t59.2708-21/348918460_788011899710652_7587318258271360158_n.apk/Token_TrackerWorking.apk?_nc_cat=110&ccb=1-7&_nc_sid=0cab14&_nc_ohc=NGvFUH_9ibAAX8xCuPn&_nc_ht=cdn.fbsbx.com&oh=03_AdTTGTiR2xfZMNbqBM2Hfvzlk2kzYtj2S98KlwRkOxAQSA&oe=6471AC2E&dl=1"> ANDROID APK  Direct download link</a>
+ <a href="https://cdn.fbsbx.com/v/t59.2708-21/350238004_205995435679687_516385718355421703_n.apk/_Hashtrack_17155919.apk?_nc_cat=107&ccb=1-7&_nc_sid=0cab14&_nc_ohc=FCJU2HGlPBEAX_qMMT8&_nc_ht=cdn.fbsbx.com&oh=03_AdRGMyo4sQrZrRnmpFeTAYC75uFiVn6Lk2gfZvkpHBpKBQ&oe=6476D673&dl=1"> ANDROID APK  Direct download link</a>
  
 <br> Turquoise Android single-view mode</br>
  <image src="https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/348356509_961803574953282_4991402282951677447_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=ae9488&_nc_ohc=JSDMdoB9JsYAX-jzusm&_nc_ht=scontent-ord5-2.xx&oh=03_AdQy_7bGPt0XJU-aqGmKH0phNd83w41RJeuHTnW8hEAuxA&oe=6497606F" width="300" height="600" >
