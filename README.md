@@ -1,4 +1,4 @@
-# Hash <image src="https://scontent-ord5-1.xx.fbcdn.net/v/t1.15752-9/350364405_1706877683058238_840596150748564760_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=va-ozH6t4wcAX9__VeL&_nc_ht=scontent-ord5-1.xx&oh=03_AdQj4rztQjItIiCnWjZh4cKGgcA1t35sXb9_ESPKkPTlnA&oe=649CC2F2" width="30" height="60" >Track
+# Hash <image src="https://scontent-ord5-1.xx.fbcdn.net/v/t1.15752-9/350364405_1706877683058238_840596150748564760_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=va-ozH6t4wcAX9__VeL&_nc_ht=scontent-ord5-1.xx&oh=03_AdQj4rztQjItIiCnWjZh4cKGgcA1t35sXb9_ESPKkPTlnA&oe=649CC2F2" width="60" height="60" >Track
 
 A simple HTML script and Android app that tracks as many tokens in ther Hedera eco-system as possible.
 The source code is free for anyone.
