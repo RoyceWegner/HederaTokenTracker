@@ -18,7 +18,7 @@ It is suggested to run the HTML version  from chrome on Android or PC.
 
  <br>Jquery HTML Risky token tracker</br>
  <br>This list is for advanced Hedera users. It includes a full list along with highly volatile meme tokens that will probably rug</br>
- <a href="https://cdn.fbsbx.com/v/t59.2708-21/348854097_584624350425079_7318557826496547725_n.html/Advanced-list.html?_nc_cat=102&ccb=1-7&_nc_sid=0cab14&_nc_ohc=m6rwrAqkKJQAX-OCb_h&_nc_ht=cdn.fbsbx.com&oh=03_AdTJZUcS7xqwQHFsjM6WtPGNJENKkr0ykxEGonbxE6ZF9Q&oe=6471E26F&dl=1"> Risky tracker Direct download link</a>
+ <a href="https://cdn.fbsbx.com/v/t59.2708-21/350146777_805295617882336_6399961192921554159_n.html/Advanced-list.html?_nc_cat=106&ccb=1-7&_nc_sid=0cab14&_nc_ohc=PfTSAXRnNKkAX8iwJvg&_nc_ht=cdn.fbsbx.com&oh=03_AdQE1Sy0JiVJPEUgiZSwip6Kgq9x0XE2n_0fdvZw4gQByA&oe=6477437D&dl=1"> Hashtrack Advanced Direct download link</a>
  
  <image src="https://scontent-ord5-1.xx.fbcdn.net/v/t1.15752-9/348356341_779058660327751_7384541511249260265_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=ae9488&_nc_ohc=ikNJFGl9nuQAX9JteCj&_nc_ht=scontent-ord5-1.xx&oh=03_AdTKgXPJiVyEYUJNEQ0OaIr6jSDqhh7ka0Rg3b3f5tXQmw&oe=649760D9" width="300" height="600" >
  
