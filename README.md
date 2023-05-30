@@ -5,7 +5,7 @@ The source code is free for anyone.
 It is suggested to run the HTML version  from chrome on Android or PC.
 
  HTML version
- <a href="https://cdn.fbsbx.com/v/t59.2708-21/349581587_943000640084446_5823356064459696486_n.html/Index.html?_nc_cat=102&ccb=1-7&_nc_sid=0cab14&_nc_ohc=vKYR2j5Gd6wAX8GIKmR&_nc_ht=cdn.fbsbx.com&oh=03_AdT_ddslSgEA_JuHYeGJXNO2JV3C4qfm3wvlF6dfGTWXBg&oe=647727DC&dl=1">HTML script Direct download link</a>
+ <a href="https://cdn.fbsbx.com/v/t59.2708-21/350282182_965934374550258_9047024795384798044_n.html/Index.html?_nc_cat=101&ccb=1-7&_nc_sid=0cab14&_nc_ohc=hDoI9h2RGMQAX_gPrc_&_nc_ht=cdn.fbsbx.com&oh=03_AdQmdGeCfnU8amsEV7U_cS5Hr3GtmU2sNsY9oddY64slkg&oe=64784803&dl=1">HTML script Direct download link</a>
  
   ANDROID version
  <a href="https://cdn.fbsbx.com/v/t59.2708-21/350238004_205995435679687_516385718355421703_n.apk/_Hashtrack_17155919.apk?_nc_cat=107&ccb=1-7&_nc_sid=0cab14&_nc_ohc=FCJU2HGlPBEAX_qMMT8&_nc_ht=cdn.fbsbx.com&oh=03_AdRGMyo4sQrZrRnmpFeTAYC75uFiVn6Lk2gfZvkpHBpKBQ&oe=6476D673&dl=1"> ANDROID APK  Direct download link</a>
