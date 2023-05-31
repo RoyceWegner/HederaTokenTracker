@@ -22,7 +22,7 @@ It is suggested to run the HTML version  from chrome on Android or PC.
  
  <image src="https://scontent-ord5-1.xx.fbcdn.net/v/t1.15752-9/350347300_1399920580786995_7962366737636499268_n.png?_nc_cat=111&ccb=1-7&_nc_sid=ae9488&_nc_ohc=4Ipe2yWIoBMAX-1XP2W&_nc_ht=scontent-ord5-1.xx&oh=03_AdQKlPWnt1vnkLYULBRxoFXjL_kCGnma2xkMKA02AtQ7RQ&oe=649CC5EF" width="300" height="600" >
  
- <br> If you like these programs and use them a lot drop some HBAR to wallet 0.0.2031376</br>
+ <br> If you like these send some HBAR to wallet 0.0.2031376</br>
  
  
 
