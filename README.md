@@ -2,7 +2,7 @@
 Hash Track is a all-in-one price performance app that displays near real-time data for all Hedera eco-system tokens.
 
  HTML version
- <a href="https://drive.google.com/file/d/1cIp_o1K3iewO9Vfk7AmfRbqZ2h0G5tBv/view?usp=drive_link">HTML script Direct download link</a>
+ <a href="https://drive.google.com/file/d/1xaOKR4a6Tm8LHxfkZGGfyTf-5H0WV2-b/view?usp=drive_link">HTML script Direct download link</a>
  
   ANDROID version
  <a href="https://drive.google.com/file/d/1y4QNrgCJEnXCUfJmJdk2yP3YtL6stz6w/view?usp=sharing"> ANDROID APK  Direct download link</a>
