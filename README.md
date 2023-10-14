@@ -5,7 +5,7 @@ Hash Track is a all-in-one price performance app that displays near real-time da
  <a href="https://drive.google.com/file/d/1xaOKR4a6Tm8LHxfkZGGfyTf-5H0WV2-b/view?usp=drive_link">HTML script Direct download link</a>
  
   ANDROID version
- <a href="https://drive.google.com/file/d/1y4QNrgCJEnXCUfJmJdk2yP3YtL6stz6w/view?usp=sharing"> ANDROID APK  Direct download link</a>
+ <a href="https://drive.google.com/file/d/1y4QNrgCJEnXCUfJmJdk2yP3YtL6stz6w/view?usp=drive_link"> ANDROID APK  Direct download link</a>
  
 <br> Android single-view mode</br> 
  <image src="https://scontent-msp1-1.xx.fbcdn.net/v/t1.15752-9/348356594_161304863420548_8144081008170827079_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=ae9488&_nc_ohc=tRtMvvtRHIsAX_tVTAm&_nc_ht=scontent-msp1-1.xx&oh=03_AdQeB6D-QChhPD7_mzBGFUL5slJ77pvZPDupUuo89X3_MA&oe=64A470D6" width="300" height="600" >
