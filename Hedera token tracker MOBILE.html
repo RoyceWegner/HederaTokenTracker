@@ -1,94 +1,236 @@
 <html>
+<head>
+    <script type="text/javascript">
+        function zoom() {
+            document.body.style.zoom = "50%";
+        }
+    </script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
 
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            grid-gap: 2px;
+        }
+
+        .widget {
+            border: 1px solid #ccc;
+            padding: 2px;
+        }
+
+        .widget h2 {
+            font-size: 20px;
+            font-weight: bold; /* Makes the heading bold */
+            color: #ffffff;
+        }
+
+        .widget p {
+            font-size: 16px;
+            font-weight: bold; /* Makes the text thicker and bold */
+            color: #d4af5e;
+        }
+
+        .chart-container {
+            position: relative;
+            height: 150px;
+        }
+
+        @keyframes pulsate-bold-scale {
+            0% {
+                color: #d4af5e;
+                transform: scale(1);
+                font-weight: bold; /* Bold text for animation */
+            }
+            50% {
+                color: green;
+                transform: scale(1.02);
+                font-weight: bold;
+            }
+            100% {
+                color: #d4af5e;
+                transform: scale(1);
+                font-weight: bold;
+            }
+        }
+
+        .pulsate-bold-scale {
+            animation: pulsate-bold-scale 1s infinite;
+        }
+
+        @keyframes flash-red {
+            0% {
+                color: #d4af5e;
+                transform: scale(1);
+                font-weight: bold;
+            }
+            50% {
+                color: red;
+                transform: scale(1.01);
+                font-weight: bold;
+            }
+            100% {
+                color: #d4af5e;
+                transform: scale(1.01);
+                font-weight: bold;
+            }
+        }
+
+        .flash-red {
+            animation: flash-red 1s infinite;
+        }
+
+        @keyframes flash-green {
+            0% {
+                color: #d4af5e;
+                transform: scale(1.01);
+                font-weight: bold;
+            }
+            50% {
+                color: green;
+                transform: scale(1.01);
+                font-weight: bold;
+            }
+            100% {
+                color: #d4af5e;
+                transform: scale(1.01);
+                font-weight: bold;
+            }
+        }
+
+        .flash-green {
+            animation: flash-green 1s infinite;
+        }
+
+        .pulse-container {
+            display: inline-flex;
+            align-items: center;
+        }
+
+        .pulse-image {
+            height: 50px;
+        }
+
+        font {
+            font-weight: bold; /* Applies bold styling to all <font> elements */
+        }
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
 <body style="background-color:black;">
+    <center>
+        <font color="#d4af5e" size="+10">‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ HASH
+            <img src="https://cryptologos.cc/logos/hedera-hbar-logo.png?v=035" alt="Snow" style="width:2%;">TRACK
+            <span class="pulse-container">
+                <font color="aqua" size="+3">PULSE</font>
+                <img class="pulse-image" src="https://www.iconsdb.com/icons/preview/tropical-blue/pulse-xxl.png" alt="Pulse Icon">
+            </span>
+        </font>
+        <br>
+    </center>
+    <center>
+        <select id="page-select">
+            <option value="">-- Options --</option>
+            <option value=" ">---Themes---</option>
+            <option value="Turqoise.html">Turqoise</option>
+            <option value="Gold.html">Gold</option>
+            <option value="RAD.html">Rad</option>
+            <option value="CHARCOAL.html">Charcoal</option>
+            <option value="Aqua.html">Aqua</option>
+            <option value="REDBLACK.html">Red & Black</option>
+            <option value="DarkBlue.html">Dark Blue</option>
+            <option value=" ">----View----</option>
+            <option value="index.html">Multi-view</option>
+            <option value="index.html">Single view</option>
+        </select>
+        <button onclick="loadPage()">Load</button>
+        <script>
+            function loadPage() {
+                var selectedPage = document.getElementById("page-select").value;
+                if (selectedPage !== "") {
+                    window.location.href = selectedPage;
+                }
+            }
+        </script>
+    </center>
 
-<h1 style="font-family: Verdana, Geneva, Tahoma, sans-serif">
-<div style = "position:relative; left:5px; top:-70px;">
-      <h1>Our Products</h1>
-      <p style ="color: white" "font-family:Verdana;font-size:56px;font-style:italic;">
-         <font size="25">  
-    |=|</font>EDERA TOKEN
-      </p>
- </font>
-</div>  
- </h1>  
- 
- <h1 style="font-family: Verdana, Geneva, Tahoma, sans-serif">
-  <div style = "position:relative; left:87px; top:-70px;">
- <p style ="color: white" "font-family:Verdana;font-size:56px;font-style:italic;">
- TRACKER
-</p>
-</div> 
- </h1>  
+    <div class="grid-container" id="result"></div>
 
+    <script>
+        function fetchCryptoData() {
+            var tokens = ['hsuite', 'tune-fm', 'dovu-2', 'xsauce', 'calaxy', 'grelf', 'usd-coin', 'headstarter', 'saucerswap', 'hedera-hashgraph', 'energytrade-token', 'heliswap', 'hbarx', 'wrapped-hbar', 'karate-combat', 'steam', 'sauce-inu', 'hashpack'];
+            var url = 'https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&ids=' + tokens.join(',') + '&sparkline=true';
 
+            fetch(url)
+                .then(response => response.json())
+                .then(data => {
+                    var cryptoData = data;
+                    var gridContainer = document.getElementById('result');
 
+                    cryptoData.forEach(token => {
+                        var name = token.name;
+                        var symbol = token.symbol;
+                        var price = token.current_price;
+                        var sparkline = token.sparkline_in_7d.price;
+                        var circulatingSupply = token.circulating_supply;
+                        var totalSupply = token.total_supply;
+                        var totalVolume = token.total_volume;
+                        var gainLossPercentage = token.price_change_percentage_24h.toFixed(2);
 
-<script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
-<coingecko-coin-price-chart-widget  coin-id="hsuite" currency="usd" height="100" width="100" locale="en"></coingecko-coin-price-chart-widget>
+                        var widget = document.createElement('div');
+                        widget.classList.add('widget');
+                        widget.innerHTML = "<h2>" + name + " (" + symbol + ")</h2>" +
+                            "<p>Price: $" + price + "</p>" +
+                            "<p>Total Supply: " + totalSupply + "</p>" +
+                            "<p>Circulating Supply: " + circulatingSupply + "</p>" +
+                            "<p>24h trade vol: $" + totalVolume + "</p>" +
+                            "<p class='" + (gainLossPercentage < 4 ? 'flash-red' : (gainLossPercentage > 22 ? 'flash-green' : '')) + "'>24h Gain/Loss: " + gainLossPercentage + "%</p>" +
+                            "<div class='chart-container'><canvas id='" + symbol + "-chart'></canvas></div>";
 
-<div style = "position:relative; left:200px; top:-100px; background-color:black;">
-<script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
-<coingecko-coin-price-chart-widget  coin-id="tune-fm" currency="usd" height="100" width="100" locale="en"></coingecko-coin-price-chart-widget>
+                        gridContainer.appendChild(widget);
 
-<div style = "position:relative; left:200px; top:-100px; background-color:black;">
-<script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
-<coingecko-coin-price-chart-widget  coin-id="hedera-hashgraph" currency="usd" height="100" width="100" locale="en"></coingecko-coin-price-chart-widget>
+                        var chartCanvas = document.getElementById(symbol + '-chart').getContext('2d');
+                        var chart = new Chart(chartCanvas, {
+                            type: 'line',
+                            data: {
+                                labels: Array.from(Array(sparkline.length).keys()),
+                                datasets: [{
+                                    label: 'Performance in 7 Days (USD)',
+                                    data: sparkline,
+                                    borderColor: 'rgba(212, 175, 94, 255)',
+                                    fill: false
+                                }]
+                            },
+                            options: {
+                                scales: {
+                                    y: {
+                                        beginAtZero: true
+                                    }
+                                }
+                            }
+                        });
+                    });
+                })
+                .catch(error => {
+                    console.log('Error:', error);
+                });
+        }
 
-<div style = "position:relative; left:200px; top:-100px; background-color:black;">
-<script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
-<coingecko-coin-price-chart-widget  coin-id="saucerswap" currency="usd" height="100" width="100" locale="en"></coingecko-coin-price-chart-widget>
+        fetchCryptoData();
 
-<div style = "position:relative; left:-600px; top:120px; background-color:black;">
-<script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
-<coingecko-coin-price-chart-widget  coin-id="heliswap" currency="usd" height="100" width="100" locale="en"></coingecko-coin-price-chart-widget>
+        window.setInterval(() => {
+            window.location.reload();
+        }, 40000);  // Refresh every 40 seconds
+    </script>
 
-<div style = "position:relative; left:200px; top:-100px; background-color:black;">
-<script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
-<coingecko-coin-price-chart-widget  coin-id="calaxy" currency="usd" height="100" width="100" locale="en"></coingecko-coin-price-chart-widget>
-
-<div style = "position:relative; left:200px; top:-100px; background-color:black;">
-<script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
-<coingecko-coin-price-chart-widget  coin-id="grelf" currency="usd" height="100" width="100" locale="en"></coingecko-coin-price-chart-widget>
-
-<div style = "position:relative; left:200px; top:-100px; background-color:black;">
-<script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
-<coingecko-coin-price-chart-widget  coin-id="headstarter" currency="usd" height="100" width="100" locale="en"></coingecko-coin-price-chart-widget>
-
-<div style = "position:relative; left:-600px; top:125px; background-color:black;">
-<script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
-<coingecko-coin-price-chart-widget  coin-id="dovu" currency="usd" height="100" width="100" locale="en"></coingecko-coin-price-chart-widget>
-
-<div style = "position:relative; left:200px; top:-100px; background-color:black;">
-<script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
-<coingecko-coin-price-chart-widget  coin-id="energytrade-token" currency="usd" height="100" width="100" locale="en"></coingecko-coin-price-chart-widget>
-
-<div style = "position:relative; left:200px; top:-100px; background-color:black;">
-<script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
-<coingecko-coin-price-chart-widget  coin-id="xsauce" currency="usd" height="100" width="100" locale="en"></coingecko-coin-price-chart-widget>
-
-<div style = "position:relative; left:200px; top:-100px; background-color:black;">
-<script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
-<coingecko-coin-price-chart-widget  coin-id="BIRDTOKEN" currency="usd" height="100" width="100" locale="en"></coingecko-coin-price-chart-widget>
-
-<div style = "position:relative; left:-600px; top:125px; background-color:black;">
-<script src="https://widgets.coingecko.com/coingecko-coin-price-chart-widget.js"></script>
-<coingecko-coin-price-chart-widget  coin-id="usd-coin" currency="usd" height="100" width="100" locale="en"></coingecko-coin-price-chart-widget>
-
-
-<script>
-    window.setInterval('refresh()', 40000); 	// Call a function every 10000 milliseconds (OR 10 seconds).
-
-    // Refresh or reload page.
-    function refresh() {
-        window .location.reload();
-    }
-</script>
-
-
-<div style = "position:relative; left:395px; top:-975px; background-color:black;">
-<iframe src="https://hederatxns.com" style="width: 400px; height: 200px; "></iframe>
-</div>
-
-
+    <center>
+        <td>
+            <a href="https://justpaste.it/redirect/edh9u/https%3A%2F%2Fdiscord.com%2Fchannels%2F1112823024182378736%2F1112823025008652330"><button onclick="myFunction()"><img src="https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/350354890_6205790019536961_8728440816811697960_n.png?stp=cp0_dst-png&_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=G6kmNLdOpv4AX-9O_uC&_nc_ht=scontent-ord5-2.xx&oh=03_AdTkkE7bIySCdfsZoAJgMu-16GFC06EYBICeOgVBMgSWeg&oe=649E3A3B"></button></a>
+            <a href="https://justpaste.it/redirect/edh9u/https%3A%2F%2Ftwitter.com%2FRoyce_Wegner"><button onclick="myFunction()"><img src="https://scontent-ord5-2.xx.fbcdn.net/v/t1.15752-9/350225808_148129001513218_181367390873665942_n.png?stp=cp0_dst-png&_nc_cat=110&ccb=1-7&_nc_sid=ae9488&_nc_ohc=9vYdfiRxbg8AX9Xoo1n&_nc_ht=scontent-ord5-2.xx&oh=03_AdR6hpV1aPt_15HOUdBVBju7avvZlMiYJhg3bs7ce69G1w&oe=649E38D9"></button></a>
+        </td>
+    </center>
+</body>
 </html>
