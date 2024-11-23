@@ -1,4 +1,4 @@
-# Hash <image src="https://scontent-ord5-1.xx.fbcdn.net/v/t1.15752-9/350364405_1706877683058238_840596150748564760_n.png?_nc_cat=106&ccb=1-7&_nc_sid=ae9488&_nc_ohc=va-ozH6t4wcAX9__VeL&_nc_ht=scontent-ord5-1.xx&oh=03_AdQj4rztQjItIiCnWjZh4cKGgcA1t35sXb9_ESPKkPTlnA&oe=649CC2F2" width="60" height="60" >Track
+# Hash <image src="https://www.iconsdb.com/icons/preview/tropical-blue/pulse-xxl.png" width="60" height="60" >Track
 Hash Track is a all-in-one price performance app that displays near real-time data for all Hedera eco-system tokens.
 
  HTML version
