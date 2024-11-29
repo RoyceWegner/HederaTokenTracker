@@ -1,11 +1,15 @@
-# Hash <image src="https://www.iconsdb.com/icons/preview/tropical-blue/pulse-xxl.png" width="60" height="60" >Track
+# Hash Track
 Hash Track is a all-in-one price performance app that displays near real-time data for all Hedera eco-system tokens.
 
  HTML version
  <a href="https://drive.google.com/file/d/1xaOKR4a6Tm8LHxfkZGGfyTf-5H0WV2-b/view?usp=drive_link">HTML script Direct download link</a>
+ VIP HTML versions
+  <a href="https*************************">HTML script Direct download link</a>
  
   ANDROID version
  <a href="https://file.io/7V1QXHjG3Rjx"> ANDROID APK  Direct download link</a>
+  VIP ANDROID version 
+  <a href="https*************> ANDROID VIP .APK  Direct download link</a>
  
 <br> Android single-view mode</br> 
  
