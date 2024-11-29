@@ -9,7 +9,7 @@ Hash Track is a all-in-one price performance app that displays near real-time da
   ANDROID version
  <a href="https://file.io/7V1QXHjG3Rjx"> ANDROID APK  Direct download link</a>
   <br> VIP ANDROID version </br>
-  <a href="https*************> ANDROID VIP .APK  Direct download link</a>
+  <a href="https*************"> ANDROID VIP .APK  Direct download link</a>
  
 <br> Android single-view mode</br> 
  
