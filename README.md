@@ -28,6 +28,7 @@ Hash Track is a all-in-one price performance app that displays near real-time da
 <br>2023 updates:</br>
 <br>debugged crashes</br>
 <br>smooth functionality</br>
+<br> gold theme plus more themes added</br>
  
  <br> If you like these send some HBAR to wallet 0.0.2031376</br>
  
