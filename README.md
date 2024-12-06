@@ -24,6 +24,7 @@ Hash Track is a all-in-one price performance app that displays near real-time da
 <br>screen size corrections</br>
 <br>file size output compressed 32mb to 3mb</br>
 <br>signals added for VIP v14</br>
+<br>removed ad's</br>
 <br></br>
 <br>2023 updates:</br>
 <br>debugged crashes</br>
