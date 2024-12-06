@@ -21,6 +21,7 @@ Hash Track is a all-in-one price performance app that displays near real-time da
  <a href="https://drive.google.com/file/d/1fDUIZWZpei7zHa8p5I7uL66l4yN5DVpg/view?usp=drive_link"> Hashtrack Advanced Direct download link</a>
 <br></br>
 <br>2024 updates:</br>
+<br> soft refresh</br>
 <br>screen size corrections</br>
 <br>file size output compressed 32mb to 3mb</br>
 <br>signals added for VIP v14</br>
