@@ -19,15 +19,15 @@ Hash Track is a all-in-one price performance app that displays near real-time da
  <br>Hash Track advanced</br>
  <br>This list is for advanced Hedera users. It includes a full list along with highly volatile meme tokens.</br>
  <a href="https://drive.google.com/file/d/1fDUIZWZpei7zHa8p5I7uL66l4yN5DVpg/view?usp=drive_link"> Hashtrack Advanced Direct download link</a>
-
-2024 updates:
-screen size corrections
-file size output compressed 32mb to 3mb
-signals added for VIP v14
-
-2023 updates:
-debugged crashes
-smooth functionality
+<br></br>
+<br>2024 updates:</br>
+<br>screen size corrections</br>
+<br>file size output compressed 32mb to 3mb</br>
+<br>signals added for VIP v14</br>
+<br></br>
+<br>2023 updates:</br>
+<br>debugged crashes</br>
+<br>smooth functionality</br>
  
  <br> If you like these send some HBAR to wallet 0.0.2031376</br>
  
