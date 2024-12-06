@@ -14,7 +14,7 @@ Hash Track is a all-in-one price performance app that displays near real-time da
 <br> Android single-view mode</br> 
  
  <br> PC multi-view mode</br>
- <image src="https://i.ibb.co/0qLd6zb/screenshot-hashtrack-pulsepng.png" width="900" height="600" >
+ <image src="https://i.ibb.co/xYwPNBZ/Hashtrack-x.png" width="900" height="600" >
 
  <br>Hash Track advanced</br>
  <br>This list is for advanced Hedera users. It includes a full list along with highly volatile meme tokens.</br>
