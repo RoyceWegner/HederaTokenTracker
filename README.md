@@ -13,7 +13,7 @@ Hash Track is a all-in-one price performance app that displays near real-time da
  
 <br> Android single-view mode</br> 
  
- <br> PC multi-view mode</br>
+ <br> VIP PC multi-view mode</br>
  <image src="https://i.ibb.co/GM3g2f1/Hashtrack-x.jpg" width="900" height="300" >
 
  <br>Hash Track advanced</br>
