@@ -31,6 +31,9 @@ Hash Track is a all-in-one price performance app that displays near real-time da
 <br>debugged crashes</br>
 <br>smooth functionality</br>
 <br> gold theme plus more themes added</br>
+
+ <br>DISCORD</br>
+ <a href="https://discord.gg/mg7gbPvn"> Hashtrack Advanced Direct download link</a>
  
  <br> If you like these send some HBAR to wallet 0.0.2031376</br>
  
