@@ -34,6 +34,9 @@ Hash Track is a all-in-one price performance app that displays near real-time da
 
  <br>DISCORD</br>
  <a href="https://discord.gg/mg7gbPvn"> Discord invite link</a>
+
+ <br>Hash track token ID</br>
+ 0.0.8125030
  
  <br> If you like these send some HBAR to wallet 0.0.2031376</br>
  
