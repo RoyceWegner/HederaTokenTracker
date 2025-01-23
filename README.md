@@ -20,6 +20,13 @@ Hash Track is a all-in-one price performance app that displays near real-time da
  <br>This list is for advanced Hedera users. It includes a full list along with highly volatile meme tokens.</br>
  <a href="https://drive.google.com/file/d/1fDUIZWZpei7zHa8p5I7uL66l4yN5DVpg/view?usp=drive_link"> Hashtrack Advanced Direct download link</a>
 <br></br>
+<br>2025 updates:</br>
+<br>advanced signals</br>
+<br>speed optimizations</br>
+<br>HT token launch</br>
+<br>advanced list now combined with signal app</br>
+<br></br>
+<br></br>
 <br>2024 updates:</br>
 <br> soft refresh</br>
 <br>screen size corrections</br>
